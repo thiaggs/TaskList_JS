@@ -1,2 +1,2 @@
 # TaskList_JS
-A simples task list implemented in javaScript
+A simple task list implemented in javaScript, using bootstrap and materialize frameworks.
